@@ -17,6 +17,8 @@ ha_integration_type: integration
 
 The `sharkiq` integration allows you to control your [Shark IQ](https://www.sharkclean.com/vacuums/robot-vacuums/) vacuum.
 
+*Please note that this is currently broken. There are work arounds which can be found [here](https://github.com/home-assistant/core/issues/123392)*
+
 {% include integrations/config_flow.md %}
 
 ## Actions
